@@ -1,6 +1,6 @@
 streamlit
 yfinance
-tensorflow-cpu
+tensorflow==2.15.0
 scikit-learn
 matplotlib
 pandas
